@@ -1,0 +1,12 @@
+curso git
+
+lineas que deberian estar en verde en esta version
+
+<<<<<<< HEAD
+linea a borrar con amend
+
+git new
+ggg
+=======
+lineas agregadas para ser eliminadas
+>>>>>>> 360ef952b172014d53189404a6a8fdc35a6291e1
