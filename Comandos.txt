@@ -83,3 +83,5 @@ git branch >> Para ver todas las ramas (la rama en verde indica la rama en la qu
 /*****Tags*****/
 
 git tag <tagToAdd> <code> >> Agrega un Tag (etiqueta) al commit del codigo code
+
+Eduir Brazon
